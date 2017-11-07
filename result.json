@@ -1,0 +1,57 @@
+[
+ {
+  "me": {
+   "name": "d"
+  },
+  "manitoFrom": {
+   "name": "e"
+  },
+  "targetTo": {
+   "name": "b"
+  }
+ },
+ {
+  "me": {
+   "name": "b"
+  },
+  "manitoFrom": {
+   "name": "d"
+  },
+  "targetTo": {
+   "name": "a"
+  }
+ },
+ {
+  "me": {
+   "name": "a"
+  },
+  "manitoFrom": {
+   "name": "b"
+  },
+  "targetTo": {
+   "name": "f"
+  }
+ },
+ {
+  "me": {
+   "name": "f"
+  },
+  "manitoFrom": {
+   "name": "a"
+  },
+  "targetTo": {
+   "name": "c"
+  }
+ },
+ {
+  "me": {
+   "name": "c"
+  },
+  "manitoFrom": {
+   "name": "f"
+  },
+  "targetTo": {
+   "name": "e"
+  }
+ }
+]
